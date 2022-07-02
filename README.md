@@ -1,2 +1,1 @@
-# owooza.github.io
-sample site
+# Welcome to my personal site
